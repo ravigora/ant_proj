@@ -25,7 +25,7 @@
 				<form:radiobutton path="gender" value="F" label="F" /></td>
 		</tr>
 		<tr>
-			<td>Country :</td>
+			<td>Coun :</td>
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
 				<form:option value="1" label="IND" />
