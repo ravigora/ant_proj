@@ -71,6 +71,5 @@
             <td>7000</td>
          </tr>
       </table>
-	<h1> Hello </h1>
 </body>
 </html>
